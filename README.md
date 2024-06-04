@@ -35,6 +35,8 @@ In this project, I utilized the Hollywood's Most Profitable Stories dataset to g
 
    ![image](https://github.com/OlaBanjoko/Hollywood-Most-Profitable/assets/168830034/75815d5d-c4d9-41db-813a-19c7bfa37e0b)
 
+   [link to my dashboard](https://app.powerbi.com/groups/me/reports/33286de5-3dc2-4c70-a723-92f13d6e5c42/ReportSection?experience=power-bi)
+
 
 ## Conclusion 🔚
 This project demonstrates my skills in data cleaning, analysis, and visualization using RStudio and Power BI. By leveraging these tools, I was able to uncover interesting trends and insights from the Hollywood's Most Profitable Stories dataset. If you have any questions or feedback, please don't hesitate to reach out.
